@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<breakfast_menu>
+<food>
+<name>Бельгийские Вафли</name>
+<price>$5.95</price>
+<description>две воздушные вафли со взбитыми сливками</description>
+<calories>650</calories>
+</food>
+<food>
+<name>Французский Тост</name>
+<price>$4.50</price>
+<description>кусочки батона в льезоне</description>
+<calories>600</calories>
+</food>
+<food>
+<name>Домашний Завтрак</name>
+<price>$6.95</price>
+<description>пара яиц, ветчина или колбаса, тост, картофельные оладьи</description>
+<calories>950</calories>
+</food>
+</breakfast_menu>
